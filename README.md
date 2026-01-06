@@ -48,4 +48,7 @@ El análisis de los resultados permite extraer las siguientes conclusiones para 
 
 - Debilidades Identificadas: El sistema presenta dificultades leves con caracteres que comparten una topología idéntica (como el número 0 y la letra O). Para solucionar esto en versiones futuras, se recomienda un post-procesamiento lingüístico.
 
-- Robustez: La segmentación mediante umbral adaptativo ha demostrado ser superior al umbral global, permitiendo procesar fotos tomadas con teléfono móvil sin necesidad de escáner profesional.
+- Robustez: La segmentación mediante umbral adaptativo ha demostrado ser superior al umbral global, permitiendo procesar fotos tomadas con teléfono móvil sin necesidad de escáner profesional.  
+
+## Enlace al video: 
+https://drive.google.com/drive/folders/1CjUL-_Tmoxv51rKBwKd3vWn6lJupB_Xw?usp=sharing
