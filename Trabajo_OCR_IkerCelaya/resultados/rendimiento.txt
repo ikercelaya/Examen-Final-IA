@@ -1,0 +1,2 @@
+Tiempo entrenamiento: 22.18s
+Precisión final: 67.90%
