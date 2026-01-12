@@ -10,4 +10,4 @@ código, ejecutar el entrenamiento con python 01_Entrenamiento_CNN.py en la term
 5. Cerrar la ventana de python y continuar escribiendo el nombre de todas las fotos hasta terminar.  
 
 ## Enlace al video: 
-https://drive.google.com/drive/folders/1CjUL-_Tmoxv51rKBwKd3vWn6lJupB_Xw?usp=sharing
+En la documentación.
